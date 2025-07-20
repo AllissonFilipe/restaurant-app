@@ -66,8 +66,13 @@ Note: Deixei a configuração de acesso para que qualquer pessoa com o link cons
 
 ##
 O projeto foi feito de forma colaborativa no repositório principal https://github.com/AllissonFilipe/restaurant-app.git
+
 **Grupo:** Allison Filipe, Aryel Penido e Joyce Aquino
+
 **Aluno:** Allisson Filipe 
+
 **Curso:** Arquitetura para aplicações móveis
+
 **Professor:** Fernando Pereira  
+
 **Entrega Individual - Trabalho Prático: App Mobile - Cardápio de Restaurante**
