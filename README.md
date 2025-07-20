@@ -49,8 +49,13 @@ Este é um projeto desenvolvido como parte do **Trabalho Prático da     discipl
 
 📺 Assista ao vídeo de apresentação do app pelo link abaixo:
 
-🔗 [Link para o vídeo no YouTube](https://youtube.com/seu-video-aqui)  
-*(ou adicione o arquivo de vídeo na pasta do projeto)*
+**Apresentação Parte 1:**
+https://drive.google.com/file/d/19E5Yrt2YDSkKhVKTN-W2tBXwG-zg8FPe/view?usp=drive_link
+
+**Apresentação Parte 2:**
+https://drive.google.com/file/d/1aGsk_6w7oQI5JUMXCH62mBdNQsgIuaSu/view?usp=drive_link
+
+Note: Deixei a configuração de acesso para que qualquer pessoa com o link consiga acessar o vídeo, não consegui fazer upload no github por conta do tamanho e por isso mantive o GDrive, qualquer problema de acesso posso disponibilizar por outro meio.
 
 ## 🔗 Repositório
 
@@ -59,9 +64,10 @@ Este é um projeto desenvolvido como parte do **Trabalho Prático da     discipl
 - npx expo start
 - acesso na porta http://localhost:8081/ , via qr code ou endereço de IP na rede local  exp://192.168.68.{..}:8081
 
----
-
-**Aluno:** [Seu Nome Aqui]  
-**Curso:** [Nome do Curso]  
+##
+O projeto foi feito de forma colaborativa no repositório principal https://github.com/AllissonFilipe/restaurant-app.git
+**Grupo:** Allison Filipe, Aryel Penido e Joyce Aquino
+**Aluno:** Allisson Filipe 
+**Curso:** Arquitetura para aplicações móveis
 **Professor:** Fernando Pereira  
 **Entrega Individual - Trabalho Prático: App Mobile - Cardápio de Restaurante**
